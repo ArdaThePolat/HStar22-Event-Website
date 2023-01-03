@@ -1,0 +1,224 @@
+#ekibimiz {
+  padding-top: 150px;
+}
+
+#bölüm-sektör {
+  padding: 150px 15% 3%;
+}
+
+#eğitimler {
+  padding-top: 150px;
+}
+
+#yarışmalar {
+  padding-top: 150px;
+}
+
+#lineup{
+  padding-top: 150px;
+}
+
+#iletişim{
+  padding-top: 150px;
+}
+
+body {
+  width: 98%;
+  background-color: black;
+  color: white;
+  text-align: center;
+}
+
+.map-image{
+  width: 90%
+}
+
+.koordinatör-image{
+  width: 50%
+}
+
+.star-text {
+  padding: 0 10%;
+  color: white;
+  text-align: center;
+}
+
+.star-image {
+  margin-top: 20%;
+}
+
+.image-text-row {
+  padding: 7% 15%;
+}
+
+.ieee-image {
+  margin-top: 30%;
+}
+
+.ieee-text {
+  text-align: center;
+  color: white;
+  padding-right: 100px;
+}
+
+.eğitim-icon {
+  margin-top: 7%;
+  width: 35%
+}
+
+.eğitim-card {
+  padding: 0 5% 3%;
+}
+
+.neler-yapacağız {
+  padding-top: 10%;
+}
+
+.carousel-inner {
+  padding: 0 15%
+}
+
+.custom-btn {
+  width: 50%;
+  margin: auto;
+}
+
+.neler-yapacağız-text, .neler-yapacağız-text:valid, .neler-yapacağız-text:visited {
+  margin-top: 20%;
+  color: white;
+}
+
+.neler-yapacağız-text:hover {
+  color: black;
+  /*rgb(200, 200, 200)*/
+}
+
+.koordinatör-card {
+  padding: 30px 3%;
+}
+
+.custom-container {
+  padding: auto;
+}
+
+.konuşmacı-slider {
+  padding-top: 30px;
+}
+
+.star-bg-head {
+  width: 100%;
+}
+
+.navbar {
+  padding: 10px 15%;
+  background-color: rgba(0, 0, 0, 0.85);
+}
+
+.navbar-title {
+  font-family: 'Lobster', cursive;
+  font-size: 2rem;
+}
+
+.navbar-title:hover {
+  color: rgb(200, 200, 200);
+}
+
+.navbar-text {
+  margin: 0 5px;
+}
+
+.navbar-text:hover {
+  color: rgb(200, 200, 200);
+}
+
+.navbar-icon {
+  width: 100px;
+  margin-right: 20px;
+}
+
+.navbar-icon:hover {
+  opacity: 0.9;
+}
+
+@media (max-width: 1028px) {
+  #bölüm-sektör {
+    padding: 150px 3% 3%;
+  }
+
+  #ieee {
+    padding-top: 50px;
+  }
+
+  #star {
+    padding-top: 50px;
+  }
+
+  #ekibimiz {
+    padding-top: 100px;
+  }
+
+  .konuşmacılar-text {
+    padding: 0 0 8%;
+  }
+
+  .neler-yapacağız {
+    padding-top: 100px;
+  }
+
+  .custom-btn {
+    width: 100%;
+  }
+
+  .eğitim-card {
+    padding: 0 15% 3%;
+  }
+
+  .ieee-image {
+    margin: 5% 0;
+    width: 50%;
+  }
+
+  .ieee-text {
+    padding-right: 5%;
+    padding-left: 5%;
+  }
+
+  .star-image {
+    width: 70%;
+    margin-bottom: 30px;
+    margin-top: 5%;
+  }
+
+  .navbar-icon {
+    width: 80px;
+  }
+
+  .navbar-title {
+    font-size: 1.2rem;
+  }
+
+  .neler-yapacağız-text {
+    font-size: 0.5rem;
+  }
+
+  .bölüm-sektör-açıklama {
+    padding-left: 10%;
+    padding-right: 10%;
+  }
+
+  .star-bg-head {
+    margin-top: 80px;
+  }
+
+  .navbar-icon {
+    margin-right: 2px;
+  }
+
+  .star-text {
+    padding: 0 5%;
+  }
+
+  .image-text-row {
+    padding: 7% 5%;
+  }
+}
